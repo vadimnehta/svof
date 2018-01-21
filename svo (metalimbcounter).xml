@@ -31,7 +31,7 @@
                 <colorTriggerFgColor>#000000</colorTriggerFgColor>
                 <colorTriggerBgColor>#000000</colorTriggerBgColor>
                 <regexCodeList>
-                    <string>You cock back your arm and throw</string>
+                    <string>You cock back your arm  and throw</string>
                     <string>^You cock back your arm and throw a(?: \w+)? throwing axe(?: marred with char marks)? at (\w+)'s (.+)\.$</string>
                 </regexCodeList>
                 <regexCodePropertyList>
